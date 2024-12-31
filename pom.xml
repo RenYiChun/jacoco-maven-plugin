@@ -6,6 +6,9 @@
     <artifactId>jacoco-maven-plugin</artifactId>
     <version>1.0.0</version>
     <packaging>maven-plugin</packaging>
+    <name>jacoco-maven-plugin</name>
+    <description>jacoco maven plugin</description>
+    <url>https://github.com/RenYiChun/jacoco-maven-plugin</url>
 
     <licenses>
         <license>
